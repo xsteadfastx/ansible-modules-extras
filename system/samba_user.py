@@ -197,7 +197,7 @@ def main():
                 ]
             }
         },
-        supports_check_more=False
+        supports_check_mode=False
     )
 
     name = module.params['name']
